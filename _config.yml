@@ -103,7 +103,7 @@ theme: landscape
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: git@github.com:guodingfang/guodingfang.github.io
+  repo: git@github.com:guodingfang/guodingfang.github.io.git
   branch: gh-pages
   name: guodingfang
   email: guodingfang1@163.com
