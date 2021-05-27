@@ -104,6 +104,6 @@ theme: landscape
 deploy:
   type: git
   repo: git@github.com:guodingfang/guodingfang.github.io.git
-  branch: gh-pages
+  branch: master
   name: guodingfang
   email: guodingfang1@163.com
